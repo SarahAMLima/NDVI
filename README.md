@@ -22,7 +22,7 @@ Vesuvius National Park has experienced significant wildfires in recent years, im
 This map aims to provide insights into how vegetation recovers over time post-wildfire. By monitoring NDVI trends, users can assess the effectiveness of natural regeneration and identify zones requiring restoration.
 
 ## How to Access the Map
-Visit the published web map [here](https://yourusername.github.io/NDVI-Map) to explore vegetation changes interactively.
+Visit the published web map [here](https://sarahamlima.github.io/NDVI/) to explore vegetation changes interactively.
 
 ## Data Sources
 - **Satellite Imagery**: Sentinel-2 L2 for 1990, Landsat-8 L-2 for 2017, with NDVI processed to visualize vegetation.
