@@ -1,6 +1,6 @@
 # NDVI Web Map Project - Vesuvius National Park
 
-This repository hosts an interactive web map displaying annual NDVI (Normalized Difference Vegetation Index) layers for Vesuvius National Park, highlighting vegetation health trends over time, particularly in response to wildfires.
+This repository hosts an interactive web map displaying NDVI (Normalized Difference Vegetation Index) layers for Vesuvius National Park, highlighting vegetation health trends over time, particularly in response to wildfires in 2017.
 
 ## Project Background
 Vesuvius National Park has experienced significant wildfires in recent years, impacting its forest cover and vegetation health. This NDVI map project is designed to assess vegetation recovery and monitor areas at risk, using satellite data to visualize the effects of environmental disturbances on the park’s ecosystem.
